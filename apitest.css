@@ -1,0 +1,7 @@
+#goods__table{
+   padding: 50px 0 0 30px;
+
+   display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 40px;
+}
